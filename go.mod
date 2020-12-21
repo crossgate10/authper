@@ -1,4 +1,4 @@
-module authper
+module github.com/crossgate10/authper
 
 go 1.15
 
