@@ -1,7 +1,7 @@
-## This if folk from [github.com/casbin/casbin-pg-adapter](github.com/casbin/casbin-pg-adapter)
+## This if folk from [github.com/casbin/casbin-pg-adapter](http://github.com/casbin/casbin-pg-adapter)
 
 ## Note.
-1. Only support [https://github.com/gocraft/dbr](https://github.com/gocraft/dbr) for now version
+1. Only support [github.com/gocraft/dbr](https://github.com/gocraft/dbr) for now version
 2. Only support `rbac_with_resource_roles_model` for now version 
 3. `RemoveFilteredPolicy` unimplemented
 
