@@ -2,8 +2,7 @@
 
 ## Note.
 1. Only support [github.com/gocraft/dbr](https://github.com/gocraft/dbr) for now version
-2. Only support `rbac_with_resource_roles_model` for now version 
-3. `RemoveFilteredPolicy` unimplemented
+2. `RemoveFilteredPolicy` unimplemented
 
 ## TODO
 1. add test
